@@ -1,2 +1,2 @@
-# Responsive-Portfolio
-Homework_2_2
+# Basic-Portfolio
+Recommended Assignment - That Portfolio Though
